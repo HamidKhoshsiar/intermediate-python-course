@@ -1,3 +1,4 @@
+#A little Anormal Dice with unequal chance
 import random
 def main():
   #print('You rolled a die')
